@@ -12,3 +12,5 @@
 **Token_Counter_Using_While_loop.py** : It displays the Token Number in a institution and takes input from the counter person for the further continuation of the Token Counter.
 
 **List_Operations.py** : This includes basic List Operations performed on various lists in the program.
+
+**Fizz_Buzz_Puzzle.py** : Here we are writing the function for famous Fizz-Buzz puzzle for the given set of numbers and displaying the output for the given input values by the end users. We are using multiple if-elif-else statements for the Puzzle execution.
