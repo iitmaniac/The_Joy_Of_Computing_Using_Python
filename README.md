@@ -14,3 +14,5 @@
 **List_Operations.py** : This includes basic List Operations performed on various lists in the program.
 
 **Fizz_Buzz_Puzzle.py** : Here we are writing the function for famous Fizz-Buzz puzzle for the given set of numbers and displaying the output for the given input values by the end users. We are using multiple if-elif-else statements for the Puzzle execution.
+
+**Aggregated_Measures.py** : In this program we are finding the mean, trimmed mean and median of a given list of data and comparing all the three by plotting all of them into the graph on the console using matplotlib library. The perspective of using trim_mean is to see that this value is more near to the median value compared to normal mean for the data list having outlier values.
