@@ -1,5 +1,5 @@
 # The_Joy_Of_Computing_Using_Python
-**This repository includes basic Python codes taught by Prof. S.R.S. Iyengar at "IIT Ropar" (last updated till June 2019)**
+**This repository includes basic Python codes taught by Prof. S.R.S. Iyengar at "IIT Ropar" (last updated till October 2019)**
 
 **First_Program.py** : It's a basic first program, where how we write the Python codes.
 
