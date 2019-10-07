@@ -18,3 +18,5 @@
 **Aggregated_Measures.py** : In this program we are finding the mean, trimmed mean and median of a given list of data and comparing all the three by plotting all of them into the graph on the console using matplotlib library. The objective of using trim_mean is to see that this trimmed mean value is more near to the median value compared to normal mean for the data list having outlier values. The mean, trimmed mean, median and mode are called as 'Aggregated Measures'.
 
 **Magic_Square.py** : It will calculate the Magic Square for a valid given number greater than 2 and displays it on the Terminal with its magic number(i.e. Sum of it's diagonal / row / column which will be the only same number) . 
+
+**Dobble_Game.py** : Here you need to spot the character, which is the only one in between the two lists. The lists are created using random and string libraries.
