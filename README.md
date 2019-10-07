@@ -16,3 +16,5 @@
 **Fizz_Buzz_Puzzle.py** : Here we are writing the function for famous Fizz-Buzz puzzle for the given set of numbers and displaying the output for the given input values by the end users. We are using multiple if-elif-else statements for the Puzzle execution.
 
 **Aggregated_Measures.py** : In this program we are finding the mean, trimmed mean and median of a given list of data and comparing all the three by plotting all of them into the graph on the console using matplotlib library. The objective of using trim_mean is to see that this trimmed mean value is more near to the median value compared to normal mean for the data list having outlier values. The mean, trimmed mean, median and mode are called as 'Aggregated Measures'.
+
+**Magic_Square.py** : It will calculate the Magic Square for a valid given number greater than 2 and displays it on the Terminal with its magic number(i.e. Sum of it's diagonal / row / column which will be the only same number) . 
