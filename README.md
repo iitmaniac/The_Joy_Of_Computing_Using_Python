@@ -20,3 +20,5 @@
 **Magic_Square.py** : It will calculate the Magic Square for a valid given number greater than 2 and displays it on the Terminal with its magic number(i.e. Sum of it's diagonal / row / column which will be the only same number) . 
 
 **Dobble_Game.py** : Here you need to spot the character, which is the only one in between the two lists. The lists are created using random and string libraries.
+
+**Birthday_Paradox.py**: Here, we are randomly generating the birth date and birth month of unknown persons and inserting it into the list. After the insertion, we are checking if any two or more persons are having the same birth date and birth month. If they have any common birthdays then we are displaying it and if they do not then we are displaying the other.
