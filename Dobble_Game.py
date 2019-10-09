@@ -57,7 +57,7 @@ ans = input("")
 
 if (ans == samesymbol):
     print("")
-    print("Yes you are correct, the character " + samesymbol + " is common in both the lists!")
+    print("Yes you are correct, the character '" + samesymbol + "' is common in both the lists!")
 else:
-    print("Oops! you are wrong, the character " + samesymbol + " is common in both the lists!")
+    print("Oops! you are wrong, the character '" + samesymbol + "' is common in both the lists!")
 
